@@ -55,10 +55,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//dotiful/web-template/pull/1) in [dotiful/web-template](https://github.com//dotiful/web-template)
-2. 🗣 Commented on [#77](https://github.com//artyshko/smd/issues/77) in [artyshko/smd](https://github.com//artyshko/smd)
-3. 💪 Opened PR [#1](https://github.com//skoshy/YouTubeHideChatByDefaultUserscript/pull/1) in [skoshy/YouTubeHideChatByDefaultUserscript](https://github.com//skoshy/YouTubeHideChatByDefaultUserscript)
-4. 🗣 Commented on [#52](https://github.com//nguyentumine/AIO-Boot/issues/52) in [nguyentumine/AIO-Boot](https://github.com//nguyentumine/AIO-Boot)
+1. 💪 Opened PR [#46](https://github.com//imagemin/imagemin-gifsicle/pull/46) in [imagemin/imagemin-gifsicle](https://github.com//imagemin/imagemin-gifsicle)
+2. 🎉 Merged PR [#1](https://github.com//dotiful/web-template/pull/1) in [dotiful/web-template](https://github.com//dotiful/web-template)
+3. 🗣 Commented on [#77](https://github.com//artyshko/smd/issues/77) in [artyshko/smd](https://github.com//artyshko/smd)
+4. 💪 Opened PR [#1](https://github.com//skoshy/YouTubeHideChatByDefaultUserscript/pull/1) in [skoshy/YouTubeHideChatByDefaultUserscript](https://github.com//skoshy/YouTubeHideChatByDefaultUserscript)
 <!--END_SECTION:activity-->
 
 </details>
