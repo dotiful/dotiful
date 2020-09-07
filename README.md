@@ -55,10 +55,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com//dotiful/firefox-scripts/pull/124) in [dotiful/firefox-scripts](https://github.com//dotiful/firefox-scripts)
-2. 🗣 Commented on [#124](https://github.com//dotiful/firefox-scripts/issues/124) in [dotiful/firefox-scripts](https://github.com//dotiful/firefox-scripts)
-3. 🎉 Merged PR [#9](https://github.com//dotiful/web-template/pull/9) in [dotiful/web-template](https://github.com//dotiful/web-template)
-4. 🎉 Merged PR [#123](https://github.com//dotiful/firefox-scripts/pull/123) in [dotiful/firefox-scripts](https://github.com//dotiful/firefox-scripts)
+1. 🗣 Commented on [#12](https://github.com//dotiful/web-template/issues/12) in [dotiful/web-template](https://github.com//dotiful/web-template)
+2. ❌ Closed PR [#12](https://github.com//dotiful/web-template/pull/12) in [dotiful/web-template](https://github.com//dotiful/web-template)
+3. 🎉 Merged PR [#124](https://github.com//dotiful/firefox-scripts/pull/124) in [dotiful/firefox-scripts](https://github.com//dotiful/firefox-scripts)
+4. 🗣 Commented on [#124](https://github.com//dotiful/firefox-scripts/issues/124) in [dotiful/firefox-scripts](https://github.com//dotiful/firefox-scripts)
 <!--END_SECTION:activity-->
 
 </details>
