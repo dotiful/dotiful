@@ -55,10 +55,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/dotiful/web-template/issues/38) in [dotiful/web-template](https://github.com/dotiful/web-template)
-2. 🗣 Commented on [#37](https://github.com/dotiful/web-template/issues/37) in [dotiful/web-template](https://github.com/dotiful/web-template)
+1. 🗣 Commented on [#175](https://github.com/dotiful/firefox-scripts/issues/175) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+2. 🗣 Commented on [#38](https://github.com/dotiful/web-template/issues/38) in [dotiful/web-template](https://github.com/dotiful/web-template)
 3. 🗣 Commented on [#37](https://github.com/dotiful/web-template/issues/37) in [dotiful/web-template](https://github.com/dotiful/web-template)
-4. 🗣 Commented on [#161](https://github.com/dotiful/firefox-scripts/issues/161) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+4. 🗣 Commented on [#37](https://github.com/dotiful/web-template/issues/37) in [dotiful/web-template](https://github.com/dotiful/web-template)
 <!--END_SECTION:activity-->
 
 </details>
