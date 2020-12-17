@@ -55,10 +55,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/dotiful/firefox-scripts/issues/182) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-2. 🗣 Commented on [#175](https://github.com/dotiful/firefox-scripts/issues/175) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-3. 🗣 Commented on [#38](https://github.com/dotiful/web-template/issues/38) in [dotiful/web-template](https://github.com/dotiful/web-template)
-4. 🗣 Commented on [#37](https://github.com/dotiful/web-template/issues/37) in [dotiful/web-template](https://github.com/dotiful/web-template)
+1. 🎉 Merged PR [#56](https://github.com/dotiful/netlify-express-api/pull/56) in [dotiful/netlify-express-api](https://github.com/dotiful/netlify-express-api)
+2. 🎉 Merged PR [#55](https://github.com/dotiful/netlify-express-api/pull/55) in [dotiful/netlify-express-api](https://github.com/dotiful/netlify-express-api)
+3. 🎉 Merged PR [#54](https://github.com/dotiful/netlify-express-api/pull/54) in [dotiful/netlify-express-api](https://github.com/dotiful/netlify-express-api)
+4. 🗣 Commented on [#54](https://github.com/dotiful/netlify-express-api/issues/54) in [dotiful/netlify-express-api](https://github.com/dotiful/netlify-express-api)
 <!--END_SECTION:activity-->
 
 </details>
