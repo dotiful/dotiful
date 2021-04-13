@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#395](https://github.com/so-fancy/diff-so-fancy/issues/395) in [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
-2. 💪 Opened PR [#395](https://github.com/so-fancy/diff-so-fancy/pull/395) in [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
-3. 🎉 Merged PR [#54](https://github.com/dotiful/netlify-express-api/pull/54) in [dotiful/netlify-express-api](https://github.com/dotiful/netlify-express-api)
-4. 🗣 Commented on [#54](https://github.com/dotiful/netlify-express-api/issues/54) in [dotiful/netlify-express-api](https://github.com/dotiful/netlify-express-api)
+1. 🎉 Merged PR [#259](https://github.com/dotiful/firefox-scripts/pull/259) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+2. 🎉 Merged PR [#258](https://github.com/dotiful/firefox-scripts/pull/258) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+3. 🎉 Merged PR [#257](https://github.com/dotiful/firefox-scripts/pull/257) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+4. 🎉 Merged PR [#256](https://github.com/dotiful/firefox-scripts/pull/256) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
 <!--END_SECTION:activity-->
 
 </details>
