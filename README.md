@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#264](https://github.com/dotiful/firefox-scripts/pull/264) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-2. 🗣 Commented on [#264](https://github.com/dotiful/firefox-scripts/issues/264) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-3. 🎉 Merged PR [#266](https://github.com/dotiful/firefox-scripts/pull/266) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-4. 🎉 Merged PR [#265](https://github.com/dotiful/firefox-scripts/pull/265) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+1. 🗣 Commented on [#3](https://github.com/naglfar/krunner-keepassxc/issues/3) in [naglfar/krunner-keepassxc](https://github.com/naglfar/krunner-keepassxc)
+2. 🎉 Merged PR [#264](https://github.com/dotiful/firefox-scripts/pull/264) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+3. 🗣 Commented on [#264](https://github.com/dotiful/firefox-scripts/issues/264) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+4. 🎉 Merged PR [#266](https://github.com/dotiful/firefox-scripts/pull/266) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
 <!--END_SECTION:activity-->
 
 </details>
