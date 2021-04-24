@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/naglfar/krunner-keepassxc/issues/3) in [naglfar/krunner-keepassxc](https://github.com/naglfar/krunner-keepassxc)
-2. 🎉 Merged PR [#264](https://github.com/dotiful/firefox-scripts/pull/264) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-3. 🗣 Commented on [#264](https://github.com/dotiful/firefox-scripts/issues/264) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-4. 🎉 Merged PR [#266](https://github.com/dotiful/firefox-scripts/pull/266) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+1. 🎉 Merged PR [#104](https://github.com/dotiful/web-template/pull/104) in [dotiful/web-template](https://github.com/dotiful/web-template)
+2. 🎉 Merged PR [#103](https://github.com/dotiful/web-template/pull/103) in [dotiful/web-template](https://github.com/dotiful/web-template)
+3. 🎉 Merged PR [#101](https://github.com/dotiful/web-template/pull/101) in [dotiful/web-template](https://github.com/dotiful/web-template)
+4. 🎉 Merged PR [#100](https://github.com/dotiful/web-template/pull/100) in [dotiful/web-template](https://github.com/dotiful/web-template)
 <!--END_SECTION:activity-->
 
 </details>
