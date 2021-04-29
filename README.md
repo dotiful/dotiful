@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/dotiful/web-template/pull/104) in [dotiful/web-template](https://github.com/dotiful/web-template)
-2. 🎉 Merged PR [#103](https://github.com/dotiful/web-template/pull/103) in [dotiful/web-template](https://github.com/dotiful/web-template)
-3. 🎉 Merged PR [#101](https://github.com/dotiful/web-template/pull/101) in [dotiful/web-template](https://github.com/dotiful/web-template)
-4. 🎉 Merged PR [#100](https://github.com/dotiful/web-template/pull/100) in [dotiful/web-template](https://github.com/dotiful/web-template)
+1. 🎉 Merged PR [#105](https://github.com/dotiful/web-template/pull/105) in [dotiful/web-template](https://github.com/dotiful/web-template)
+2. 🎉 Merged PR [#104](https://github.com/dotiful/web-template/pull/104) in [dotiful/web-template](https://github.com/dotiful/web-template)
+3. 🎉 Merged PR [#103](https://github.com/dotiful/web-template/pull/103) in [dotiful/web-template](https://github.com/dotiful/web-template)
+4. 🎉 Merged PR [#101](https://github.com/dotiful/web-template/pull/101) in [dotiful/web-template](https://github.com/dotiful/web-template)
 <!--END_SECTION:activity-->
 
 </details>
