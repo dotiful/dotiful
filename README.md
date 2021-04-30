@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/wesbarnett/snap-pac/pull/46) in [wesbarnett/snap-pac](https://github.com/wesbarnett/snap-pac)
-2. 🎉 Merged PR [#107](https://github.com/dotiful/web-template/pull/107) in [dotiful/web-template](https://github.com/dotiful/web-template)
-3. 🎉 Merged PR [#106](https://github.com/dotiful/web-template/pull/106) in [dotiful/web-template](https://github.com/dotiful/web-template)
-4. 🎉 Merged PR [#105](https://github.com/dotiful/web-template/pull/105) in [dotiful/web-template](https://github.com/dotiful/web-template)
+1. 🎉 Merged PR [#109](https://github.com/dotiful/web-template/pull/109) in [dotiful/web-template](https://github.com/dotiful/web-template)
+2. 🎉 Merged PR [#108](https://github.com/dotiful/web-template/pull/108) in [dotiful/web-template](https://github.com/dotiful/web-template)
+3. 💪 Opened PR [#46](https://github.com/wesbarnett/snap-pac/pull/46) in [wesbarnett/snap-pac](https://github.com/wesbarnett/snap-pac)
+4. 🎉 Merged PR [#107](https://github.com/dotiful/web-template/pull/107) in [dotiful/web-template](https://github.com/dotiful/web-template)
 <!--END_SECTION:activity-->
 
 </details>
