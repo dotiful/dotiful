@@ -48,7 +48,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/dotiful/web-template/pull/109) in [dotiful/web-template](https://github.com/dotiful/web-template)
+1. 🎉 Merged PR [#268](https://github.com/dotiful/firefox-scripts/pull/268) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
 2. 🎉 Merged PR [#108](https://github.com/dotiful/web-template/pull/108) in [dotiful/web-template](https://github.com/dotiful/web-template)
 3. 💪 Opened PR [#46](https://github.com/wesbarnett/snap-pac/pull/46) in [wesbarnett/snap-pac](https://github.com/wesbarnett/snap-pac)
 4. 🎉 Merged PR [#107](https://github.com/dotiful/web-template/pull/107) in [dotiful/web-template](https://github.com/dotiful/web-template)
