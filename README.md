@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/westandskif/rate-arch-mirrors/issues/6) in [westandskif/rate-arch-mirrors](https://github.com/westandskif/rate-arch-mirrors)
-2. 🎉 Merged PR [#272](https://github.com/dotiful/firefox-scripts/pull/272) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-3. 🎉 Merged PR [#271](https://github.com/dotiful/firefox-scripts/pull/271) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-4. 🎉 Merged PR [#270](https://github.com/dotiful/firefox-scripts/pull/270) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+1. 🎉 Merged PR [#275](https://github.com/dotiful/firefox-scripts/pull/275) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+2. ❗️ Opened issue [#6](https://github.com/westandskif/rate-arch-mirrors/issues/6) in [westandskif/rate-arch-mirrors](https://github.com/westandskif/rate-arch-mirrors)
+3. 🎉 Merged PR [#272](https://github.com/dotiful/firefox-scripts/pull/272) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+4. 🎉 Merged PR [#271](https://github.com/dotiful/firefox-scripts/pull/271) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
 <!--END_SECTION:activity-->
 
 </details>
