@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#238](https://github.com/baskerville/sxhkd/pull/238) in [baskerville/sxhkd](https://github.com/baskerville/sxhkd)
-2. 🎉 Merged PR [#1](https://github.com/dotiful/iso-build/pull/1) in [dotiful/iso-build](https://github.com/dotiful/iso-build)
-3. 🎉 Merged PR [#277](https://github.com/dotiful/firefox-scripts/pull/277) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-4. 🎉 Merged PR [#276](https://github.com/dotiful/firefox-scripts/pull/276) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+1. 🎉 Merged PR [#282](https://github.com/dotiful/firefox-scripts/pull/282) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+2. 🎉 Merged PR [#281](https://github.com/dotiful/firefox-scripts/pull/281) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+3. 💪 Opened PR [#238](https://github.com/baskerville/sxhkd/pull/238) in [baskerville/sxhkd](https://github.com/baskerville/sxhkd)
+4. 🎉 Merged PR [#1](https://github.com/dotiful/iso-build/pull/1) in [dotiful/iso-build](https://github.com/dotiful/iso-build)
 <!--END_SECTION:activity-->
 
 </details>
