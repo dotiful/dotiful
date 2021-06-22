@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#282](https://github.com/dotiful/firefox-scripts/pull/282) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-2. 🎉 Merged PR [#281](https://github.com/dotiful/firefox-scripts/pull/281) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-3. 💪 Opened PR [#238](https://github.com/baskerville/sxhkd/pull/238) in [baskerville/sxhkd](https://github.com/baskerville/sxhkd)
-4. 🎉 Merged PR [#1](https://github.com/dotiful/iso-build/pull/1) in [dotiful/iso-build](https://github.com/dotiful/iso-build)
+1. 🎉 Merged PR [#283](https://github.com/dotiful/firefox-scripts/pull/283) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+2. 💪 Opened PR [#357](https://github.com/1Password/1password-teams-open-source/pull/357) in [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source)
+3. 💪 Opened PR [#1](https://github.com/dotiful/1password-teams-open-source/pull/1) in [dotiful/1password-teams-open-source](https://github.com/dotiful/1password-teams-open-source)
+4. 🎉 Merged PR [#282](https://github.com/dotiful/firefox-scripts/pull/282) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
 <!--END_SECTION:activity-->
 
 </details>
