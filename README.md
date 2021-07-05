@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/westandskif/rate-mirrors/issues/6) in [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors)
-2. 🗣 Commented on [#6](https://github.com/westandskif/rate-mirrors/issues/6) in [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors)
-3. 🗣 Commented on [#586](https://github.com/nana-4/materia-theme/issues/586) in [nana-4/materia-theme](https://github.com/nana-4/materia-theme)
-4. 🎉 Merged PR [#283](https://github.com/dotiful/firefox-scripts/pull/283) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+1. 🎉 Merged PR [#292](https://github.com/dotiful/firefox-scripts/pull/292) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+2. 🎉 Merged PR [#291](https://github.com/dotiful/firefox-scripts/pull/291) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+3. 🎉 Merged PR [#290](https://github.com/dotiful/firefox-scripts/pull/290) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+4. 🎉 Merged PR [#288](https://github.com/dotiful/firefox-scripts/pull/288) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
 <!--END_SECTION:activity-->
 
 </details>
