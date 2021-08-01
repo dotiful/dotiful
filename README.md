@@ -48,10 +48,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#295](https://github.com/dotiful/firefox-scripts/pull/295) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-2. 🎉 Merged PR [#293](https://github.com/dotiful/firefox-scripts/pull/293) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
-3. 🎉 Merged PR [#2](https://github.com/dotiful/iso-build/pull/2) in [dotiful/iso-build](https://github.com/dotiful/iso-build)
-4. 🎉 Merged PR [#292](https://github.com/dotiful/firefox-scripts/pull/292) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+1. 🎉 Merged PR [#3](https://github.com/dotiful/iso-build/pull/3) in [dotiful/iso-build](https://github.com/dotiful/iso-build)
+2. 💪 Opened PR [#1](https://github.com/mousavian/ssh-config-syntax-highlighter/pull/1) in [mousavian/ssh-config-syntax-highlighter](https://github.com/mousavian/ssh-config-syntax-highlighter)
+3. 🎉 Merged PR [#295](https://github.com/dotiful/firefox-scripts/pull/295) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
+4. 🎉 Merged PR [#293](https://github.com/dotiful/firefox-scripts/pull/293) in [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts)
 <!--END_SECTION:activity-->
 
 </details>
